@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/her.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             용인시 처인구 능원리
-url:                https://jungjihyuk.github.io/JH_Life
+url:                https://chungjihyeok.github.io/JH_Life
 
 # Jekyll
 permalink:          /:title/
@@ -38,7 +38,7 @@ disqus_shortname:   JH
   #ad-slot:
 #bing-verify:
 email: wlgur278@gmail.com
-github-url:         jungjihyuk
+github-url:         chungjihyeok
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
